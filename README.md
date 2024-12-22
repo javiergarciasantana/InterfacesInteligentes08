@@ -62,6 +62,11 @@ This Unity C# script implements a `SensorReadout` class that:
 
 This script is designed for projects that involve real-time movement based on sensor data, such as augmented reality (AR) applications or mobile games.
 
+
+
+https://github.com/user-attachments/assets/cf84ecc4-0728-48ea-b308-e6da756d4b9e
+
+
 ## Dependencies
 
 - [TextMeshPro](https://docs.unity3d.com/Packages/com.unity.textmeshpro@latest): Required for displaying UI text.
